@@ -4,7 +4,7 @@ import PEqualNP.Defs
 namespace PEqualNP.Outside.L_meta_1335
 
 /-! Two lines share exactly one point, so two distinct points lie on at most one common line,
-and by the joining axiom on exactly one. Through a point p, the lines minus p partition the
+and by the joining hypothesis on exactly one. Through a point p, the lines minus p partition the
 other q^2 + q points into parts of size q, so p lies on exactly q + 1 lines; summing the point
 degrees over z gives the first identity. The ordered pairs of distinct points of z are
 partitioned by the line through them, and line i holds |L i ∩ z| (|L i ∩ z| - 1) of them,
